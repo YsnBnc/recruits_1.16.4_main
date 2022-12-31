@@ -1,6 +1,6 @@
 Half done half left Recruits 1.16.4 port
 
-MAIN OWNER: https://github.com/talhanation
+ORIGINAL OWNER: https://github.com/talhanation
 
 ISSUES:
 -Renders missing
